@@ -1,0 +1,6 @@
+name = Mohammed
+age = 23
+address = Kirkuk
+tel = 123456789
+work = Developer
+---------------------------- :
